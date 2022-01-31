@@ -1,0 +1,5 @@
+<resources>
+  <style name="border_radius">
+    <item name="cornerSize">20%</item>
+  </style>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">camera</string>
+  <string name="image_button">image</string>
+  <string name="delete_button">delete</string>
+  <string name="permission_required">Camera access is required to display the camera preview.</string>
+  <string name="ok">OK</string>
+  <string name="permission_granted">Permission is granted. You can use the camera now.</string>
+</resources>
